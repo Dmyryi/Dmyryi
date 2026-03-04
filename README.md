@@ -43,7 +43,7 @@
         <img src="https://profilinator.rishav.dev/skills-assets/jira-original-wordmark.svg" alt="Jira" height="45" />
       </div>
       <br/>
-      <b>Other Tools:</b> Node.js, MongoDB, Sass/SCSS, Figma.
+      <b>Other Tools:</b> Node.js, Sass/SCSS, Figma.
     </td>
   </tr>
 </table>
