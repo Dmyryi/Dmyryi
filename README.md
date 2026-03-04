@@ -2,43 +2,51 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Dmytryi, a Software Engineer & Fullstack Developer 👨‍💻</div>
+### <div align="center">I'm Dmytryi, a Fullstack Developer 👨‍💻</div>
 
 - 🚀 **Main Focus:** Backend Development with **C# / .NET Core**.
-- 🛠️ **Current Projects:** Building **Pimo** — an embedded robotics project using **ESP32** and C++.
-- 👨‍💻 **Professional Experience:** Fullstack development since 2023, currently working with **Angular.js** and **React** at Pizza Day.
+- 🛠️ **Current Projects:** Developing **SchoolDance** — a Full-stack management system for a dance school built with **.NET** and **React**.
+- 👨‍💻 **Professional Experience:** Working in the industry since 2023.
 - 🎓 **Education:** Studying Software Engineering (Specialty 121).
 - ⚡ **Fun fact:** I solve hardware problems by writing better code.
 
 <br/>
 
-## My Tech Stack
+## My Skill Set 🛠️
 
 <table>
   <tr>
     <td valign="top" width="50%">
       ### Backend & Engineering ⚙️
       <div align="left">
-        <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/dotnet-core.svg" alt=".NET Core" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+        <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/dotnet-core.svg" alt=".NET Core" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS S3" height="45" />
       </div>
       <br/>
-      <b>Principles:</b> OOP, SOLID, Algorithms, Clean Code.
+      <b>Core Foundations:</b>
+      <ul>
+        <li>OOP & SOLID (Advanced)</li>
+        <li>Algorithms & Data Structures</li>
+        <li>Clean Code principles</li>
+      </ul>
     </td>
     <td valign="top" width="50%">
-      ### Frontend & Tools 🎨
+      ### Frontend & Workflow 🎨
       <div align="left">
-        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />
+        <img src="https://profilinator.rishav.dev/skills-assets/jira-original-wordmark.svg" alt="Jira" height="45" />
       </div>
+      <br/>
+      <b>Other Tools:</b> Node.js, MongoDB, Sass/SCSS, Figma.
     </td>
   </tr>
 </table>
