@@ -17,10 +17,8 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      ### Backend & Engineering ⚙️
       <div align="left">
         <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="45" />
-        <img src="https://profilinator.rishav.dev/skills-assets/dotnet-core.svg" alt=".NET Core" height="45" />
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="45" />
         <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="45" />
         <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" />
@@ -35,7 +33,6 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      ### Frontend & Workflow 🎨
       <div align="left">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" />
         <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="45" />
