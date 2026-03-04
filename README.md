@@ -6,7 +6,6 @@
 
 - 🚀 **Main Focus:** Backend Development with **C# / .NET Core**.
 - 🛠️ **Current Projects:** Developing **SchoolDance** — a Full-stack management system for a dance school built with **.NET** and **React**.
-- 👨‍💻 **Professional Experience:** Working in the industry since 2023.
 - 🎓 **Education:** Studying Software Engineering (Specialty 121).
 - ⚡ **Fun fact:** I solve hardware problems by writing better code.
 
